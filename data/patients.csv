@@ -1,0 +1,9 @@
+patient_id,journey
+P001,low_urgency
+P002,high_urgency
+P003,background_stable
+P004,background_variable
+P005,background_stable
+P006,background_variable
+P007,background_stable
+P008,background_variable

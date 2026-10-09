@@ -1,0 +1,17 @@
+
+=== P001 - Low-urgency (stable, improving) (dry weight 89.3 kg) ===
+ day 1 (wk1): [green] Nice work -- your weight today is +0.4 kg from your dry weight, right in your steady range. Keep doing what you're doing.
+ day 14 (wk2): [green] Nice work -- your weight today is +1.7 kg from your dry weight, right in your steady range. Keep doing what you're doing.
+ day 19 (wk3): [gray] That weight reading looks off, so we're not counting it yet. A member of your care team will check with you before anything changes. -> REVIEW ITEM (urgent/implausible_reading)
+ day 28 (wk4): [green] Nice work -- your weight today is +0.2 kg from your dry weight, right in your steady range. Keep doing what you're doing.
+ day 41 (wk6): [yellow] Your weight is +2.7 kg from your dry weight -- a little higher than usual. Keep logging daily; your care team is watching your trend.
+ day 56 (wk8): [red] Your weight has been trending up and is now +4.2 kg above your dry weight. Your care team has been notified and will follow up -- no action is needed from you right now besides logging how you feel. -> REVIEW ITEM (urgent/sustained_gain_above_threshold)
+
+=== P002 - High-urgency (deteriorating / fluid retention) (dry weight 86.3 kg) ===
+ day 1 (wk1): [green] Nice work -- your weight today is -0.4 kg from your dry weight, right in your steady range. Keep doing what you're doing.
+ day 14 (wk2): [green] Nice work -- your weight today is +0.4 kg from your dry weight, right in your steady range. Keep doing what you're doing.
+ day 21 (wk3): [green] Nice work -- your weight today is +1.5 kg from your dry weight, right in your steady range. Keep doing what you're doing.
+ day 25 (wk4): [red] Your weight has been trending up and is now +4.0 kg above your dry weight. Your care team has been notified and will follow up -- no action is needed from you right now besides logging how you feel. -> REVIEW ITEM (urgent/sustained_gain_above_threshold)
+ day 28 (wk4): [red] Your weight has been trending up and is now +3.6 kg above your dry weight. Your care team has been notified and will follow up -- no action is needed from you right now besides logging how you feel. -> REVIEW ITEM (urgent/sustained_gain_above_threshold)
+ day 31 (wk5): [red] Your weight has been trending up and is now +3.8 kg above your dry weight. Your care team has been notified and will follow up -- no action is needed from you right now besides logging how you feel. -> REVIEW ITEM (urgent/sustained_gain_above_threshold)
+ day 56 (wk8): [red] Your weight has been trending up and is now +10.0 kg above your dry weight. Your care team has been notified and will follow up -- no action is needed from you right now besides logging how you feel. -> REVIEW ITEM (urgent/sustained_gain_above_threshold)

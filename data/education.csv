@@ -1,0 +1,65 @@
+patient_id,week,lesson,viewed,comprehension_check_correct
+P001,1,Why we track your daily weight,False,
+P001,2,What your symptom score means,True,True
+P001,3,Taking your heart medicines on schedule,True,True
+P001,4,When to call your care team,False,
+P001,5,Why we track your daily weight,True,True
+P001,6,What your symptom score means,True,True
+P001,7,Taking your heart medicines on schedule,True,False
+P001,8,When to call your care team,True,True
+P002,1,Why we track your daily weight,True,True
+P002,2,What your symptom score means,True,True
+P002,3,Taking your heart medicines on schedule,True,True
+P002,4,When to call your care team,True,True
+P002,5,Why we track your daily weight,True,True
+P002,6,What your symptom score means,True,False
+P002,7,Taking your heart medicines on schedule,True,True
+P002,8,When to call your care team,True,True
+P003,1,Why we track your daily weight,False,
+P003,2,What your symptom score means,True,True
+P003,3,Taking your heart medicines on schedule,True,True
+P003,4,When to call your care team,True,True
+P003,5,Why we track your daily weight,True,True
+P003,6,What your symptom score means,False,
+P003,7,Taking your heart medicines on schedule,True,True
+P003,8,When to call your care team,True,True
+P004,1,Why we track your daily weight,True,True
+P004,2,What your symptom score means,True,True
+P004,3,Taking your heart medicines on schedule,True,True
+P004,4,When to call your care team,True,True
+P004,5,Why we track your daily weight,False,
+P004,6,What your symptom score means,True,True
+P004,7,Taking your heart medicines on schedule,True,True
+P004,8,When to call your care team,True,True
+P005,1,Why we track your daily weight,False,
+P005,2,What your symptom score means,True,True
+P005,3,Taking your heart medicines on schedule,True,False
+P005,4,When to call your care team,False,
+P005,5,Why we track your daily weight,True,True
+P005,6,What your symptom score means,True,True
+P005,7,Taking your heart medicines on schedule,True,True
+P005,8,When to call your care team,False,
+P006,1,Why we track your daily weight,True,False
+P006,2,What your symptom score means,True,True
+P006,3,Taking your heart medicines on schedule,True,True
+P006,4,When to call your care team,True,True
+P006,5,Why we track your daily weight,False,
+P006,6,What your symptom score means,True,True
+P006,7,Taking your heart medicines on schedule,True,False
+P006,8,When to call your care team,True,True
+P007,1,Why we track your daily weight,True,False
+P007,2,What your symptom score means,True,True
+P007,3,Taking your heart medicines on schedule,True,True
+P007,4,When to call your care team,True,True
+P007,5,Why we track your daily weight,True,True
+P007,6,What your symptom score means,False,
+P007,7,Taking your heart medicines on schedule,True,True
+P007,8,When to call your care team,True,True
+P008,1,Why we track your daily weight,False,
+P008,2,What your symptom score means,True,True
+P008,3,Taking your heart medicines on schedule,False,
+P008,4,When to call your care team,True,True
+P008,5,Why we track your daily weight,True,True
+P008,6,What your symptom score means,True,True
+P008,7,Taking your heart medicines on schedule,True,True
+P008,8,When to call your care team,True,True
